@@ -3,7 +3,7 @@ A few ideas randomly put together about things I learned in two years of doing t
 
 ## Slidedeck design
 
-#### TL;DR version
+### TL;DR version
 * slides are a visual aid
 * big text, big images, text on image if possible
 * contrast, bold colors
@@ -13,7 +13,7 @@ A few ideas randomly put together about things I learned in two years of doing t
 * use recaps after each section
 * always come back at the main idea (the main takeaway)
 
-#### Full version
+### Full version
 
 Slides are a visual aid:
 * don't put full text nor full sentences, slides are not your reading support
