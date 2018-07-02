@@ -50,3 +50,50 @@ Order of slides
 * use clearly separated sections (powerful colors help)
 * recap after each major section or at the end
 * one or a few slides at the end on the **main** idea (remember this is the key takeaway)
+
+## Content creation
+
+### TL;DR version
+
+### Full version
+
+Asking the right questions:
+* - *WHO* are you talking to (audience)
+* *HOW LONG* — Time & schedule
+* *WHAT* — 1) sticks and 2) what can the audience learn?
+* *WHY* — why this topic? why is it useful to talk about this?
+
+The main idea
+* there should always be ONE, not two, not three
+* focus on it at the beginning and throughout the talk
+* what is the key takeaway?
+* come back obsessively to it
+* come back to initial data / do comparison (ex: lines of code, speed, time)
+
+Tell a story
+* break the ice
+* start with something people can relate to (everyone)
+* express problems, offer solutions
+* make it easy for people to follow
+* add a WOW factor (present an innovative solution, show them something you have discovered, etc)
+* always end on a high note, reiterate the **main idea**
+* people should feel you are approachable
+
+The end
+* work on it because it's the thing the audience is left with (their impression)
+* transmit again to everyone that you are approachable
+* offer references and useful links
+* link to your slides
+
+Avoid
+* overusing memes
+* inapropriate jokes
+* overused quotes (ex: "with great power ...")
+
+Other good practices
+* Keep personal notes with your ideas that go cross-presentations
+* find your **way** to stand out
+* rehearse! a lot!
+
+## Delivery
+Coming soon
